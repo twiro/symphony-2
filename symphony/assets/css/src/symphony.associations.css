@@ -115,7 +115,7 @@
 	z-index: 1;
 }
 
-/* Overflow Fix (#2650) */
+/* Prettify overlapping of title and button (#2650) */
 
 .association header:after {
 	content: " ";
